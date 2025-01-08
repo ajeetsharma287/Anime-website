@@ -28,7 +28,7 @@ header::before {
   position: absolute;
   width: 100%;
   height: 100%;
-  background: url(suzume.jpg) no-repeat center center/cover;
+  background: url(blackbg.jpg) no-repeat center center/cover;
   z-index: -1;
 }
 
